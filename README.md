@@ -1,6 +1,6 @@
 # 100daysofalgorithmsinJava
 
-<strong>100 days of algorithms in core Java</strong?
+<strong>100 days of algorithms in core Java</strong>
 
 This repository contains notebooks with live code to accompany 100 days of algorithms challenge.
 
